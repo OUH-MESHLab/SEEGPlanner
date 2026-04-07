@@ -1,0 +1,10 @@
+VesselSegPipeline/Data/*
+VesselSegPipeline/OUT/*
+DCM2NIFTI/Data/*
+.vscode/*
+venv/*
+*.json
+.DS_Store
+__pycache__
+*Release/
+*Debug/
